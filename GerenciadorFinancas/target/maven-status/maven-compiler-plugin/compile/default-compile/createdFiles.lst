@@ -1,0 +1,10 @@
+com\mycompany\gerenciadorfinancas\Modelo\RelatorioSimplesStrategy.class
+com\mycompany\gerenciadorfinancas\Interface\Transacao.class
+com\mycompany\gerenciadorfinancas\Modelo\TransacaoSimples.class
+com\mycompany\gerenciadorfinancas\Modelo\JurosDecorator.class
+com\mycompany\gerenciadorfinancas\Modelo\RepositorioDados.class
+com\mycompany\gerenciadorfinancas\GerenciadorFinancas.class
+com\mycompany\gerenciadorfinancas\Modelo\TransacaoDecorator.class
+com\mycompany\gerenciadorfinancas\Modelo\RelatorioStrategy.class
+com\mycompany\gerenciadorfinancas\Modelo\RelatorioDetalhadoStrategy.class
+com\mycompany\gerenciadorfinancas\Controlador\FinancasController.class
